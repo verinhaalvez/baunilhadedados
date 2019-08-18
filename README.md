@@ -19,3 +19,4 @@ Treinar a manipulação de arrays
 4. Repita os passos acima até todos os testes ficarem verdes
 5. Escolha outro arquivo na pasta `spec` para remover as linhas `pending` e repita os passos de 1 a 4
 
+# baunilhadedados
